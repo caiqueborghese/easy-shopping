@@ -1,5 +1,9 @@
-# Easy Shopping 
+# Easy Shopping
+<h2>Desktop</h2>
+<img src="https://github.com/caiqueborghese/easy-shopping/blob/master/assets/desktop.jpeg?raw=true" width="700px" align="center">
 <br>
+<h2>Mobile</h2>
+<img src="https://github.com/caiqueborghese/easy-shopping/blob/master/assets/mobile.jpeg?raw=true" width="400px" align="center">
 <h1>Description</h1>
 <p>Project created through the classes of <a href="https://rodolfomori.com.br/devclub">DevClub</a></p>
 <br>
@@ -13,3 +17,5 @@
 <p>If you have any questions, comments or concerns, please don't hesitate to get in touch. You can reach us via email at caiqueborghese@gmail.com.
 
 Thanks for getting this far. Happy shopping!</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueborghese&layout=compact)](https://github.com/caiqueborghese/github-readme-stats)
